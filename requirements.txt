@@ -1,7 +1,5 @@
-gradio
 transformers
 torch
 peft
 accelerate
 sentencepiece
-pyaudioop
