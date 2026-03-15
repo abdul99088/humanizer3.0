@@ -1,3 +1,7 @@
-flask
-PyPDF2
-werkzeug
+gradio
+transformers
+torch
+peft
+accelerate
+sentencepiece
+pyaudioop
